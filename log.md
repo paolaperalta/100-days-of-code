@@ -3,9 +3,9 @@
 ### Day 1: July 14th, 2020 
 ##### Figuring out a roadmap
 
-**Today's Progress**:
+**Today's Progress**: Decided to work on front end challenges (Front Loops) and the Responsive Web Design certification in FreeCodeCamp. Finished a Flexbox training I had been working on (Flexbox Zombies)
  
-**Thoughts**: 
+**Thoughts**: My ultimate goal is to work on UX design, so Front End seems like a good place to start.
 
 **Link to work**: Public commitment here: https://twitter.com/tangerine33/status/1283064552968658945
 
