@@ -24,7 +24,7 @@
 
 **Today's Progress**: Completed the Basic CSS module in freeCodeCamp and the Applied Visual Design one. 
 
-**Thoughts**: I am finding that the best time for me to work on this is early in the morning. I am not always able to do that but today was a good day in terms of motivation and I put in around X hours. Excited to be learning about CSS animations!
+**Thoughts**: I am finding that the best time for me to work on this is early in the morning. I am not always able to do that but today was a good day in terms of motivation and I put in more than 3 hours. Excited to be learning about CSS animations!
 
 **Link(s) to work**: https://www.freecodecamp.org/peraltapaola
 
