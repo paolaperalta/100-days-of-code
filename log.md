@@ -5,18 +5,18 @@
 
 **Today's Progress**: Decided to work on front end challenges (Front Loops) and the Responsive Web Design certification in FreeCodeCamp. Finished a Flexbox training I had been working on (Flexbox Zombies)
  
-**Thoughts**: My ultimate goal is to work on UX design, so Front End seems like a good place to start.
+**Thoughts**: My ultimate goal is to work in UX design, and this seems like a good place to start.
 
 **Link to work**: Public commitment here: https://twitter.com/tangerine33/status/1283064552968658945
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: July 15th, 2020 
+##### Diving back in
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through the initial HTML and CSS challenges in Free Coding Camp. Completed HTML and got to 25% of the CSS one.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I've wanted to do a basic HTML training since I first started to learn code a couple of years ago. I skipped the basic lessons for this course because I joined once they had already been dictated, so this is a nice way to jump back in. This will also give me the tools I need to start working on the Front Loops challenges.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: No links for now!
 
 
 ### Day 1: June 27, Monday
