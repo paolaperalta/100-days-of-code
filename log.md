@@ -12,7 +12,7 @@
 ### Day 2: July 15th, 2020 
 ##### Diving back in
 
-**Today's Progress**: Worked through the initial HTML and CSS challenges in Free Coding Camp. Completed HTML and got to 25% of the CSS one.
+**Today's Progress**: Worked through the initial HTML and CSS challenges in Free Coding Camp. Completed HTML and got to 25% of the CSS one. Session lasted for around 90 mins.
 
 **Thoughts**: I've wanted to do a basic HTML training since I first started to learn code a couple of years ago. I skipped the basic lessons for this course because I joined once they had already been dictated, so this is a nice way to jump back in. This will also give me the tools I need to start working on the Front Loops challenges.
 
