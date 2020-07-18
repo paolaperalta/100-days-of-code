@@ -31,7 +31,16 @@
 ### Day 4: July 17th, 2020 
 ##### 
 
-**Today's Progress**:  
+**Today's Progress**: Today I completed Applied Accessibility and Responsive Web Design Pricinciples.  
+
+**Thoughts**: I struggled more to concentrate today but got through both modules anyway.
+
+**Link(s) to work**: https://www.freecodecamp.org/peraltapaola
+
+### Day 4: July 18th, 2020 
+##### 
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
