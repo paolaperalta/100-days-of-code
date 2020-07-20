@@ -37,7 +37,34 @@
 
 **Link(s) to work**: https://www.freecodecamp.org/peraltapaola
 
-### Day 4: July 18th, 2020 
+### Day 5: July 19th, 2020 
+##### 
+
+**Today's Progress**: Completed the Flexbox certification.
+
+**Thoughts**: So yesterday was Saturday and I skipped it. I find that I need to detox from the screens at some point in the week because being in quarantine is not helping with my screen addiction. By Friday I needed someone to just rip the phone from my hand already. I am adding a day at the end of the challenge and I didn't skip today so I'm good. As for the training, the flexbox section of the certification was easy enough since I completed the flexbox zombies game two times now, but I kept thinking that if this was my first approach to flexbox ever I would be super confused as this was just an over-simpilified version of the concepts. I hope the rest of the course is not that too, but I guess that I won't really know until I start putting a real project together. I am thinking I'll complete the Laravel training I bought last year next and then try to do something functional, most probably an e-commerce site. But that's just one way to go and something I am somewhat more familiar with since that was my first approach to coding last year.
+
+**Link(s) to work**: https://www.freecodecamp.org/peraltapaola
+
+### Day 6: 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/peraltapaola
+
+### Day 6: 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/peraltapaola
+
+### Day 6: 
 ##### 
 
 **Today's Progress**: 
