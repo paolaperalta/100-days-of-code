@@ -46,6 +46,15 @@
 
 **Link(s) to work**: https://www.freecodecamp.org/peraltapaola
 
+### Day 6: July 20th, 2020 
+##### 
+
+**Today's Progress**: Tried to apply some of what I've seen to the first Front Loops challenge. I realized I sitll would need a lot more basic concepts to just be able to do this without any kind of guidance. I completed it but not entirely from scratch and I used a lot of the code in the solution, though I paid attention to what it does and how things change if I tweak it. Still, I have a long way to go and I'm thinking I should work on some other kind of training before I keep going with freeCodeCamp because the concepts I'm going through there are not really sticking. I remember in the course we did last year we covered how to use mediaqueries and I might try to do this same challenge again using them and flexbox, though the solution they provided seems simpler so it might not be necessary. Still don't know why the first card's hover has less height than the other two. 
+
+**Thoughts**: Working on an actual project at this point was good because I can see all the areas where I still need help. I still have a long ways to go! The link to the work below is pretty neat but I didn't do it from scratch or without any help, really. But still, this was helpful as a way to jump back in. 
+
+**Link(s) to work**: 
+
 ### Day 6: 
 ##### 
 
@@ -64,11 +73,14 @@
 
 **Link(s) to work**: https://www.freecodecamp.org/peraltapaola
 
-### Day 6: 
-##### 
 
-**Today's Progress**: 
 
-**Thoughts**: 
+**Some resources I've been looking at**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/peraltapaola
+Front End developer roadmap: https://roadmap.sh/frontend
+
+https://medium.com/we-are-orb/a-ux-design-road-map-for-starters-c8505c30587d
+
+https://medium.com/swlh/10-best-tutorial-projects-for-self-taught-developers-3e13e7907c9a
+
+https://www.bytehub.dev/
