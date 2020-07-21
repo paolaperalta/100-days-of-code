@@ -51,9 +51,9 @@
 
 **Today's Progress**: Tried to apply some of what I've seen to the first Front Loops challenge. I realized I sitll would need a lot more basic concepts to just be able to do this without any kind of guidance. I completed it but not entirely from scratch and I used a lot of the code in the solution, though I paid attention to what it does and how things change if I tweak it. Still, I have a long way to go and I'm thinking I should work on some other kind of training before I keep going with freeCodeCamp because the concepts I'm going through there are not really sticking. I remember in the course we did last year we covered how to use mediaqueries and I might try to do this same challenge again using them and flexbox, though the solution they provided seems simpler so it might not be necessary. Still don't know why the first card's hover has less height than the other two. 
 
-**Thoughts**: Working on an actual project at this point was good because I can see all the areas where I still need help. I still have a long ways to go! The link to the work below is pretty neat but I didn't do it from scratch or without any help, really. But still, this was helpful as a way to jump back in. 
+**Thoughts**: Working on an actual project at this point was good because I can see all the areas where I still need help. I still have a long ways to go! The link to the work below is pretty neat but I didn't do it from scratch or without any help, really. But still, this was helpful as a way to jump back in. Also, I am still investigating how to set this up in Github so that the work is viewable, so I'll just include the address of the file below for now.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/paolaperalta/100-days-of-code/blob/master/Loop_1/assets/index.html
 
 ### Day 6: 
 ##### 
